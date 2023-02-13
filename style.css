@@ -173,8 +173,8 @@ header{
 .cards{
   display:flex;
   flex-wrap:wrap;
-  margin-left: 250px;
-}
+  margin-left: 120px ;
+
 nav h1 {font-size: 20px;
   color:#ff7200 ;
   margin-left: -480px;
